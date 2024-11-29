@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+# extract-bitcoincore-mkey.py -- Bitcoin wallet master key extractor
+# This file is reference btcrecover and bitcoin2john.py
+# If this has helped you, then please donate to support my further research.
+# My Bitcoin address:
+#
+# 18H2fTnpdMbPyusKEUU3Z67PtA2uQTBQNW
+#
+# Thank You!
+
 import binascii
 from logaid import log
 import struct
