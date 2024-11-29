@@ -1,5 +1,5 @@
 # bitcoin_wallet_dat_hash
-A extracter for hash bitcoin wallet.dat
+A extracter for hash of bitcoin wallet.dat, whether old wallet and new wallet.
 ## Installation
 ```console
 pip install logaid
